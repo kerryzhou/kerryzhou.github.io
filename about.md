@@ -3,23 +3,25 @@ layout: default
 title: About Florence Ko
 ---
 
-<div class="post">
-	<h1 class="pageTitle">About Florence Ko</h1>
-	<img src="{{ '/assets/img/piano.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-</div>
+柯老师的简历：
+
+* Taiwan National University of the Arts 台灣國立藝術大學  
+
+* 赴美國費城音樂院研究，及紐約市立大學CUNY音樂研究所修鋼琴演奏，並在紐約大學音樂院博士  班研習.藝術家演奏文憑  
+
+* 師事Susan Starr（柴可夫斯基國際大賽評審)，Paul Rutman, Abby Simon (里玆國際大賽主審), ...  
+
+* 榮獲台灣國家樂壇新秀，美國Aspen 全額音樂獎學金  
+
+* 應美國音樂教師協會邀請至北美洲巡迴演出  
+** 亞洲美洲文化音樂季演出  
+** 中韓古典文化音樂會演出  
+** 台灣夏季音樂營鋼琴指導  
+
+* 合作演出的交响乐团包括  
+** 費城音樂院交響樂團  
+** CUNY交響樂團  
+** Kaohsiung 交響樂團  
+** Taipei 室內樂  
+
+* 獨奏，室內樂，協奏曲演出地點包括紐約林肯中心，甘迺迪音樂廳，台灣國家音樂廳，日本CNN  
