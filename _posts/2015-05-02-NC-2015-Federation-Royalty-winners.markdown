@@ -20,7 +20,7 @@ Congratulations to the following 1st & 2nd-place winners in the 2015 state piano
 	* 2nd Place, Thursday Morning Music Club of Winston-Salem  
 * Kevin Xu  
 	* 1st Place, Federation _Prince of Music_  
-	* 2nd Place, Frances Wolff Memorial Music Award
+	* 2nd Place, Frances Wolff Memorial Music Award  
 * Jaden Shi
 	* 2nd Place, Josephine Bunch Sande Music Award  
 * Serena Zhang
