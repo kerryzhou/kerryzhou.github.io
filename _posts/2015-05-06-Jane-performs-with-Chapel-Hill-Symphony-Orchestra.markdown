@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jane Zhao Performs Chopin Piano Concerto With Chapel Hill Symphony Orchestra"
+title:  "Jane Zhao Performs Chopin Piano Concerto No.1 With Chapel Hill Symphony Orchestra"
 date:   2015-05-06
 ---
 
