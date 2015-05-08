@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kevin Xu Selected by 2015 Philadelphia Young Pianists Academy (YAPA) at Curtis School of Music"
-date:   2015-05-05
+date: 2015-05-06
 ---
 
 Kevin Xu (許凱文) is accepted by the 2015 Philadelphia Young Pianists Academy (YAPA) at Curtis School of Music, joining a group 15 world class young pianists selected from across the world. PYPA, the most prestigious piano summer camp, is hosted in the [Curtis Institute of Music](http://www.curtis.edu). Curtis is known as the most selective higher learning institution in US and has produced numerous top musicians including [Lang Lang](http://langlang.com) and [Yujia Wang](http://www.yujawang.com).
