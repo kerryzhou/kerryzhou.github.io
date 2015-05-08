@@ -13,6 +13,10 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+ - title: Event
+   url: /event
+ - title: Video
+   url: /video
  - title: About
    url: /about
  - title: Contact
