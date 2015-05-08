@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jane Zhao Wins the 2014-2015 Harlan Duinow Young Artist Concerto Competition"
+title: "Jane Zhao Wins 2014-2015 Harlan Duinow Young Artist Concerto Competition"
 date: 2015-02-23
 ---
 
