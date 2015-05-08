@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Winners of 2015 Bullard and Sonatina Competition"
-date: 2015-05-02
+date: 2015-04-13
 ---
 
 Congratulations to the following 1st & 2nd-place winners in the 2015 Bullard and Sonatina Competition:
