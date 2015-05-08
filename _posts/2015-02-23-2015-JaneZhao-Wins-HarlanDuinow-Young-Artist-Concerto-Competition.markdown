@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jane Zhao Wins the 2014-2015 Harlan Duinow Young Artist Competition"
-date: 2015-03-08
+date: 2015-02-23
 ---
 
 <img src="{{ '/assets/img/JJaneZhao-HarlanDuenow-Young-Artist-Concerto-Competition.jpg' | prepend: site.baseurl }}" alt="">
